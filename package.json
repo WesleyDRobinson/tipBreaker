@@ -1,0 +1,27 @@
+{
+  "name": "tip-breaker",
+  "version": "1.0.0",
+  "description": "make breaking bills easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WesleyDRobinson/tipBreaker.git"
+  },
+  "keywords": [
+    "tip",
+    "tips",
+    "bill",
+    "bills",
+    "food",
+    "restaurants"
+  ],
+  "author": "wesley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WesleyDRobinson/tipBreaker/issues"
+  },
+  "homepage": "https://github.com/WesleyDRobinson/tipBreaker#readme"
+}
